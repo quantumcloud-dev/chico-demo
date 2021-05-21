@@ -1024,6 +1024,19 @@ a:focus {
     transition: .3s .3s;
 }
 
+.team a.btnView {
+    position: relative;
+    margin-top: 15px;
+    padding: 15px 35px;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: #000000;
+    border-radius: 0;
+    background: #47ee70;
+    transition: .3s;
+}
+
 
 /*******************************/
 /*********** FAQs CSS **********/
